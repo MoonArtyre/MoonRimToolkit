@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MoonRimToolkit/static/css/main.1a3c3e9d.css",
-    "main.js": "/MoonRimToolkit/static/js/main.d2adf96d.js",
+    "main.js": "/MoonRimToolkit/static/js/main.b88ef8f9.js",
     "static/js/453.ed3810f9.chunk.js": "/MoonRimToolkit/static/js/453.ed3810f9.chunk.js",
     "static/media/RimworldLogo.png": "/MoonRimToolkit/static/media/RimworldLogo.98f936bfa2ec0804b44d.png",
     "static/media/tem.jpg": "/MoonRimToolkit/static/media/tem.8c3cd09c855ead07d718.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/MoonRimToolkit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MoonRimToolkit/index.html",
     "main.1a3c3e9d.css.map": "/MoonRimToolkit/static/css/main.1a3c3e9d.css.map",
-    "main.d2adf96d.js.map": "/MoonRimToolkit/static/js/main.d2adf96d.js.map",
+    "main.b88ef8f9.js.map": "/MoonRimToolkit/static/js/main.b88ef8f9.js.map",
     "453.ed3810f9.chunk.js.map": "/MoonRimToolkit/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a3c3e9d.css",
-    "static/js/main.d2adf96d.js"
+    "static/js/main.b88ef8f9.js"
   ]
 }
